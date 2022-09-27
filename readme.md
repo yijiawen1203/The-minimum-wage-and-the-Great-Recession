@@ -10,5 +10,7 @@ to replicate figure 1, I need to get the minimum wage by state at 2008. I search
 
 the downloaded file is: 1_Minimum Wage Data by state.csv
 
-next I use ArcGIS to visualize the panel 1 in figure 1.
+next I use ArcGIS to visualize the panel 1 in figure 1. The output file is figure1_minimum wage bounded map.pdf. The process path is "D:\1_yogafile\3_FSU\2022fallCourse\appliedECO\minimumWage" (for myself reference).
+
+we can see the replication figure is almost the same.
 
