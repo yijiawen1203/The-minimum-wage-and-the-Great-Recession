@@ -10,4 +10,5 @@ to replicate figure 1, I need to get the minimum wage by state at 2008. I search
 
 the downloaded file is: 1_Minimum Wage Data by state.csv
 
+next I use ArcGIS to visualize the panel 1 in figure 1.
 
