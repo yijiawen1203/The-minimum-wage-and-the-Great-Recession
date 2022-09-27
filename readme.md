@@ -8,4 +8,6 @@ then use python to process the data.
 
 to replicate figure 1, I need to get the minimum wage by state at 2008. I search and get the minimum wage data from: https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017?resource=download
 
+the downloaded file is: 1_Minimum Wage Data by state.csv
+
 
