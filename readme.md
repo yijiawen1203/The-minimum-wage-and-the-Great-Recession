@@ -1,4 +1,4 @@
-the code here aims to replicate the following paper: Clemens, J., & Wither, M. (2019). The minimum wage and the Great Recession: Evidence of effects on the employment and income trajectories of low-skilled workers. Journal of Public Economics, 170, 53-67.
+the code here aims to replicate the following paper: **Clemens, J., & Wither, M. (2019). The minimum wage and the Great Recession: Evidence of effects on the employment and income trajectories of low-skilled workers. Journal of Public Economics, 170, 53-67.**
 
 1. I first download the code from the following website: https://www.nber.org/research/data/survey-income-and-program-participation-sipp
 
