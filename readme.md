@@ -22,6 +22,13 @@ I can only draw panel A, and I can not draw panel B because I cannot find the co
  3 table 1
  ==
  
+ I can not find hourly wage rate in the SIPP file, but I find the Regular hourly pay rate (i.e.,tpyrate1) , so I use the variable tpyrate1 
+ to represent the hourly wage rate, as mentioned in the paper.
+ 
+ 
+ 
+ 
+ 
  
  
  
