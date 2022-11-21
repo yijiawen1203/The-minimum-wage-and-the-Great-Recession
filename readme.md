@@ -5,6 +5,8 @@ the code here aims to replicate the following paper: **Clemens, J., & Wither, M.
 
 1. I first download the code from the following website: https://www.nber.org/research/data/survey-income-and-program-participation-sipp
 
+because the data is from 2008.07 to 2012.07, so I need to download SIPP from wave 1 to wave 12.
+
   After downloading the 2008 sipp data, use the stata to transform the data into csv file. 
 
   then use python to process the data.
