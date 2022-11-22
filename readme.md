@@ -33,7 +33,7 @@ I can only draw panel A, and I can not draw panel B because I cannot find the co
  
  my table is very different from the authors, i think the reason is that i use the different variable from the authors, the column name is not intuitive. for example, variable **thearn**  means Total household earned income , but variable **thtotinc** means  Total household income. I don't understand the difference betweent the two variables very much.
  
- 
+meanwhile, some variables is missing, i don't know which is the right variable. 
  
  
  99 for myself reference
