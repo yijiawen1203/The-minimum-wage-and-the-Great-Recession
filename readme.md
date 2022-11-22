@@ -7,9 +7,12 @@ the code here aims to replicate the following paper: **Clemens, J., & Wither, M.
 
 because the data is from 2008.07 to 2012.07, so I need to download SIPP from wave 1 to wave 12.
 
-  After downloading the 2008 sipp data, use the stata to transform the data into csv file. 
-
-  then use python to process the data.
+  After downloading the 2008 sipp data, use the stata to transform the data into csv file. I only get the column that I needed, including
+  **ssuid tage  tpyrate1  tfipsst  euectyp5 eawop rmhrswk ehrsall ehrsbs1  ehrsbs2 thearn thtotinc rhpov rfpov rfownkid eeducate**.
+  the file path is /Users/yoga/Documents/Projects/10Eco_applied eco_replicate mini wage/SIPP/targeted csv file (for my own reference)
+  
+  then use python to process the data. I first merge the 12 files into one file. then I calculate the descriptive summary of the data. the notebook is 
+  **precessing the sipp data.ipynb**
 
 2. to replicate figure 1, I need to get the minimum wage by state at 2008. I search and get the minimum wage data from: https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017?resource=download
 
