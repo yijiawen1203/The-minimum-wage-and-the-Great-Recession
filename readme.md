@@ -36,6 +36,10 @@ I can only draw panel A, and I can not draw panel B because I cannot find the co
 meanwhile, some variables is missing, i don't know which is the right variable. 
  
  
+ 明天的目标是figure 2...,至少画出一张图来。。。。
+== 
+ 
+ 
  99 for myself reference
  ==
  
