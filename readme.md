@@ -49,9 +49,9 @@ My table is very different from the authors, I think the reason is that i use th
  
 Meanwhile, some variables are missing, and I don't know which is the right variable. For example, the table 1 has a variable named **no earnings**, but I cannot find such variable in the dataset, and I cannot calculate it by myself.
 
-Morover, I cannot seperate 6 columns based on the data. I can not find the average baseline wage informaiton, and I cannot find the wage variable in the SIPP dataset. Alternatively, I use the **Regular hourly pay rate (i.e., tpyrate1 in the dataset) ** to represent the wage. I classify the data into three groups: 1) tpyrate1<$7.5, 2) $7.5<tpyrate1<$8.49, 3) $8.50<tpyrate1<$9.99. However, the first variable is  $5.15<wage<$7.25. In my classification, all $5.15<wage<$7.25 belongs to the first group (i.e.,tpyrate1<$7.5). So I can only get the summary statistics for column 1 and column 2 in the table 1.
+Morover, I cannot seperate 6 columns based on the data. I can not find the average baseline wage informaiton, and I cannot find the wage variable in the SIPP dataset. Alternatively, I use the **Regular hourly pay rate** (i.e., tpyrate1 in the dataset) to represent the wage. I classify the data into three groups: 1) tpyrate1<$7.5, 2) $7.5<tpyrate1<$8.49, 3) $8.50<tpyrate1<$9.99. However, the first variable is  $5.15<wage<$7.25. In my classification, all $5.15<wage<$7.25 belongs to the first group (i.e.,tpyrate1<$7.5). So I can only get the summary statistics for column 1 and column 2 in the table 1.
 
-Not surprisingly, my observations and number of individuals are larger than those in the paper. It is because I inlcude all the obversations that have wage between $5.15 and $7.25 in the first two columns. However, it is confusing to me that my observations are very different from the sum of all the six columns in the table 1
+Not surprisingly, my observations and number of individuals are larger than those in the paper. It is because I inlcude all the obversations that have wage between $5.15 and $7.25 in the first two columns. However, it is confusing to me that my observations are very different from the sum of all the six columns in the table 1.
  
 Figure 2 panel A
 == 
