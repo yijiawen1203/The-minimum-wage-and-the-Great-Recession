@@ -96,10 +96,9 @@ I run the following equation, but I fail to use individual fixed effect in the r
  **code 103 too many variables specified**. It indicates that too many factor variables are not allowed. the log file for running the regression is **replication_Ayla_1125.log**. So I can only use time fixed and state fixed effect, but I cannot use individual fixed effect, which requires about 6000 dummy variables. 
 
  
- 99 for myself reference
- ==
- 
- next I use ArcGIS to visualize the panel 1 in figure 1. The output file is figure1_minimum wage bounded map.pdf. The process path is "D:\1_yogafile\3_FSU\2022fallCourse\appliedECO\minimumWage" .
+ **99 for myself reference**
 
-  we can see the replication figure is almost the same.
+ 
+I use ArcGIS to visualize the panel 1 in figure 1. The output file is figure1_minimum wage bounded map.pdf. The process path is "D:\1_yogafile\3_FSU\2022fallCourse\appliedECO\minimumWage" .
+
 
