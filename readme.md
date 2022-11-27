@@ -101,7 +101,16 @@ I run the following equation, but I fail to use individual fixed effect in the r
  
 Overall, I find it is very challenging to replicate a paper and get the same results. The original data is available, but I find it challenging to find the accurate variables that are used by the author, especially the data include many similar variables. 
  
- **99 for myself reference**
+
+
+
+
+
+
+
+
+
+**99 for myself reference**
 
  
 I use ArcGIS to visualize the panel 1 in figure 1. The output file is figure1_minimum wage bounded map.pdf. The process path is "D:\1_yogafile\3_FSU\2022fallCourse\appliedECO\minimumWage" .
