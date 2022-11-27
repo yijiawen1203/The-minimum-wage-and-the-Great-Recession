@@ -31,7 +31,7 @@ Next, I use python to process the data. I first merge the 12 files into one file
 ![Screen Shot 2022-11-27 at 11 00 13 AM](https://user-images.githubusercontent.com/58616362/204144817-94d64188-4618-490c-86a6-89ee49b46f08.png)
 
 
-I can only draw panel A, and I can not draw panel B because I cannot find the corresponding data of minimum wages by month in the SIPP data. I can only find the data by year. Moreover, I cannot find the data in SIPP, and I can only find it from other source (i.e.,https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017?resource=download). 
+I can only draw panel A, and I can not draw panel B because I cannot find the corresponding data of minimum wages **by month** in the SIPP data. I can only find the data **by year**. Moreover, I cannot find the data in SIPP, and I can only find it from other source (i.e.,https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017?resource=download). 
  
  3 Table 1
  ==
