@@ -96,6 +96,11 @@ I run the following equation, but I fail to use individual fixed effect in the r
  **code 103 too many variables specified**. It indicates that too many factor variables are not allowed. the log file for running the regression is **replication_Ayla_1125.log**. So I can only use time fixed and state fixed effect, but I cannot use individual fixed effect, which requires about 6000 dummy variables. 
 
  
+ Disucssion
+ ==
+ 
+Overall, I find it is very challenging to replicate a paper and get the same results. The original data is available, but I find it challenging to find the accurate variables that are used by the author, especially the data include many similar variables. 
+ 
  **99 for myself reference**
 
  
